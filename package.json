@@ -1,0 +1,22 @@
+{
+  "name": "proyectoadministradorfincas",
+  "version": "1.0.0",
+  "description": "Pagina Administrador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandroraezcampos/proyectoadministradorfincas.git"
+  },
+  "author": "Alejandro Raez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejandroraezcampos/proyectoadministradorfincas/issues"
+  },
+  "homepage": "https://github.com/alejandroraezcampos/proyectoadministradorfincas#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
